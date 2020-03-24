@@ -1,2 +1,12 @@
-# Text_Classification_Deep_Learning_Pytorch
-This repository consists of various deep learning based text classification models. It's more of a plug and play type. Designed in a way that you can customise these projects with little or no efforts on custom datasets.
+# Multi-Class_Text_Classification_Deep_Learning_Pytorch
+This repository contains various deep learning based multi-class text classification models applied on AG_news Dataset.<br /> It's more of a plug and play type. Designed in a way that you can customize these projects with little or no efforts on custom datasets.
+
+## Various Architectures:
+* Designing our own Word Embedding + ANN
+* Pre-trained Embedding + Bi-LSTM + FC
+* Pre-trained Embedding + Bi-LSTM with Attention networks
+
+### To Do:
+* Pre-Trained Embedding + Self-Attention
+* Transformers
+* CNN based Architectures
