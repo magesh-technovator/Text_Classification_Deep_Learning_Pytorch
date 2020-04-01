@@ -8,9 +8,8 @@ This repository contains various deep learning based multi-class text classifica
 * [Pre-trained Embedding + Bi-LSTM with Attention networks](https://github.com/MageshDominator/Text_Classification_Deep_Learning_Pytorch/blob/master/text%20classification%20with%20pre-trained%20embeddings%2C%20lstm%2C%20attention.ipynb)
 * [Pre-Trained Embedding + Self-Attention](https://github.com/MageshDominator/Text_Classification_Deep_Learning_Pytorch/blob/master/text%20classification%20with%20pre-trained%20embeddings%2C%20self-attention.ipynb)
 * [TextCNN](https://github.com/MageshDominator/Text_Classification_Deep_Learning_Pytorch/blob/master/text%20classification%20with%20CNN.ipynb)
+* [Recurrent CNN](https://github.com/MageshDominator/Text_Classification_Deep_Learning_Pytorch/blob/master/text%20classification%20with%20RCNN.ipynb)
 
 ### To Do:
-* RCNN
 * Character CNN
 * Transformers
-
