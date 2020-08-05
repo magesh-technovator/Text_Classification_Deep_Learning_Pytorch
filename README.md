@@ -13,3 +13,4 @@ This repository contains various deep learning based multi-class text classifica
 ### To Do:
 * Character CNN
 * Transformers
+* Use precision, recall instead of accuracy for model comparison
